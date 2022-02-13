@@ -1,0 +1,17 @@
+.Cards {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    margin: 70px 153px;
+}
+
+.holder {
+    text-align: center;
+    padding: 10px;
+}
+
+.para {
+    text-align: center;
+    margin-top: 5px;
+    padding: 20px 20px;
+    font-size: 20px;
+}

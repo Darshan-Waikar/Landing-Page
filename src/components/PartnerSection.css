@@ -1,0 +1,70 @@
+.section {
+    background: url('/public/Assets/1.png') center center/cover no-repeat;
+    width: 100%;
+    height: 100%;
+    padding: 150px;
+}
+
+@media screen and (max-width: 768px) {
+    .section {
+        background: url('/public/Assets/1.png') center center/cover no-repeat;
+        width: 100%;
+    }
+    .section-container>h4 {
+        font-size: 20px;
+        text-align: center;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+    }
+    .section-container>p {
+        margin-top: 40px;
+        font-size: 15px;
+        text-align: center;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        margin-bottom: 90px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .section {
+        background: url('/public/Assets/1.png') center center/cover no-repeat;
+        width: 100%;
+    }
+    .section-container>h4 {
+        font-size: 20px;
+        text-align: center;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+    }
+    .section-container>p {
+        margin-top: 40px;
+        font-size: 15px;
+        text-align: center;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        margin-bottom: 90px;
+    }
+}
+
+.section-container>h4 {
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.section-container>p {
+    margin-top: 40px;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-bottom: 90px;
+}
